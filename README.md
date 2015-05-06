@@ -4,6 +4,9 @@ Repository mit Datensammlung zum Open VVS Day
 
 alle Informationen unter http://www.stuttgarter-zeitung.de/openvvs
 
+## Schnittstellen
+Zur Vorbereitung auf den Umgang mit den Datenschnittstellen TRIAS und EFA-XML hat uns der VVS eine umfangreiche Dokumentation zur Verfügung gestellt. [In diesem Readme](https://drive.google.com/open?id=0ByeUDuDfulKbTWVPakpodHJWdkE&authuser=1) sind die Informationen sowie Links zu den Dokumentationen versammelt.
+
 ## Pad
 Zum Austausch bezüglich Fragen, Themenideen etc. haben wir [ein Pad eingerichtet] (https://openvvsday.titanpad.com/1)
 
