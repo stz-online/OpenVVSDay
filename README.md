@@ -59,3 +59,4 @@ Interessant werden Anwendungen ja vor allem auch dann, wenn sie mit anderen Date
 
  * 2015-04-22: Erste Fassung (stz)
  * 2015-04-27: Text in Fließtext gebracht und Links angereichert (stk)
+ * 2015-05-06: Link zum Pad sowie zu VVS-Schnittstellen hinzugefügt (stZ9
