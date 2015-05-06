@@ -4,6 +4,8 @@ Repository mit Datensammlung zum Open VVS Day
 
 alle Informationen unter http://www.stuttgarter-zeitung.de/openvvs
 
+## Pad
+Zum Austausch bezüglich Fragen, Themenideen etc. haben wir [ein Pad eingerichtet] (https://openvvsday.titanpad.com/1)
 
 ## Materialsammlung
 
