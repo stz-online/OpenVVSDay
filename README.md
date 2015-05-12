@@ -10,6 +10,9 @@ Zur Vorbereitung auf den Umgang mit den Datenschnittstellen TRIAS und EFA-XML ha
 ## Pad
 Zum Austausch bezüglich Fragen, Themenideen etc. haben wir [ein Pad eingerichtet] (https://openvvsday.titanpad.com/1)
 
+## neue VVS-App
+[zum Download] (http://www.vvs.de/download/VVSMobil.apk)
+
 ## Materialsammlung
 
 Wir haben hier einige Anwendungen und Quellen mit Lektüre für Einsteiger_innen wie Fortgeschrittene zusammengefasst.
